@@ -1,0 +1,28 @@
+			
+			img{
+				margin:50 auto;
+				align:center;
+				display:block;
+				border:4px;
+				border-color:	#6aa84f;
+				border-style: solid;
+			}
+			h1{
+				color:#38761d; 
+				font-family:"Times New Roman";
+				font-size:28px
+			}
+			h2{
+				color:#38761d;
+				font-family:"Times New Roman";
+				font-size:24px;
+			}
+			table{
+				margin-left: auto;
+				margin-right: auto;
+				text-align: center;
+			}
+			td, th {
+				border: 1px solid black;
+			}
+			
